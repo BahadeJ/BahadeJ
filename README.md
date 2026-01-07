@@ -7,6 +7,9 @@
 
 ###
 
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNzd2twdzljMnNvczl3MWw0azBtbmIzczdodWk5bmIyd3hzN3B2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="retro coding gif" />
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
